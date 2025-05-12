@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="fr" class="js">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Akemar Service - Impression numérique et conception graphique de haute qualité">
+        <!-- Fav Icon  -->
+        <link rel="shortcut icon" href="images/favicon.png">
+        <!-- Site Title  -->
+        <title>Akemar Service - Impression et Design Graphique</title>
+        <!-- Vendor Bundle CSS -->
+        <link rel="stylesheet" href="assets/css/vendor.bundle.css">
+        <!-- Custom styles for this template -->
+        <link href="assets/css/style.css?ver=131" rel="stylesheet">
+        <link href="assets/css/theme.css?ver=131" rel="stylesheet">
+    </head>
+    <body class="overflow-scroll">
+           
+        <!-- Start .header-section -->
+        <div id="home" class="header-section flex-box-middle section gradiant-background overflow-hidden">
+            <div id="particles-js" class="particles-container"></div>
+            <div id="navigation" class="navigation is-transparent" data-spy="affix" data-offset-top="5">
+                <nav class="navbar navbar-default">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#site-collapse-nav" aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="./">
+                                <img class="logo logo-light" src="images/logo-white.png" alt="logo" />
+                                <img class="logo logo-color" src="images/logo.png" alt="logo" />
+                            </a>
+                        </div>
+                        <div class="collapse navbar-collapse font-secondary" id="site-collapse-nav">
+                            <ul class="nav nav-list navbar-nav navbar-right">
+                                <li><a class="nav-item" href="#home">Accueil</a></li>
+                                <li><a class="nav-item" href="#about">À propos</a></li>
+                                <li><a class="nav-item" href="#features">Services</a></li>
+                                <li><a class="nav-item" href="#screenshots">Réalisations</a></li>
+                                <li><a class="nav-item" href="#pricing">Tarifs</a></li>
+                                <li><a class="nav-item" href="#team">Équipe</a></li>
+                                <li><a class="nav-item" href="#testimonial">Témoignages</a></li>
+                                <li><a class="nav-item" href="#contacts">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+            
+            <div class="header-content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="header-texts">
+                                <h1 class="cd-headline clip is-full-width wow fadeInUp" data-wow-duration=".5s">
+                                    🎯 "Donnez vie à vos idées avec Akemar Service"
+                                </h1>
+                                <p class="lead wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">
+                                    📝 Impression numérique et conception graphique de haute qualité pour particuliers et professionnels.
+                                </p>
+                                <ul class="buttons">
+                                    <li><a href="#features" class="button wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".6s">Voir nos services</a></li>
+                                    <li><a href="#contacts" class="button button-border button-transparent wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".9s">Nous contacter</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-6 header-mockup">
+                            <div class="mockup-screen mockup-screen-one wow fadeInRight" data-wow-duration=".5s"><img src="images/hs-1.png" alt="header screen" /></div>
+                        </div>
+                    </div>
+                </div>
+            </div>	
+        </div>
+        
+        <!-- About Section -->
+        <div id="about" class="about-section section pb-90 white-bg">
+            <div class="container tab-fix">
+                <div class="section-head text-center">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h2 class="heading">À propos de <span>Akemar Service</span></h2>
+                            <p>📌 "Akemar Service est une imprimerie et agence graphique spécialisée dans la création de visuels captivants et l’impression numérique de haute qualité. Nous transformons vos idées en supports visuels percutants."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Features Section -->
+        <div id="features" class="features-section section gradiant-background">
+            <div class="container tab-fix">
+                <div class="section-head heading-light text-center">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h2 class="heading heading-light">Nos services phares</h2>
+                            <p>🖨️ Impression numérique (cartes, flyers, affiches...)<br>
+                            🎨 Design graphique (logos, identités visuelles, visuels réseaux)<br>
+                            🚛 Branding de camions<br>
+                            📱 Communication sur réseaux sociaux<br>
+                            💡 Création de supports personnalisés (t-shirts, objets pub)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Screenshots Section -->
+        <div id="screenshots" class="screenshots-section section pb-120 white-bg">
+            <div class="container">
+                <div class="section-head text-center">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h2 class="heading">Réalisations</h2>
+                            <p>Exemples de nos travaux :</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="image-carousel has-carousel owl-carousel owl-theme">
+                            <div class="item"><img src="images/affiches.jpg" alt="Affiches de formations" /></div>
+                            <div class="item"><img src="images/flyers.jpg" alt="Exemples de flyers imprimés" /></div>
+                            <div class="item"><img src="images/branding.jpg" alt="Branding sur véhicules" /></div>
+                            <div class="item"><img src="images/reseaux.jpg" alt="Maquettes réseaux sociaux" /></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Pricing Section -->
+        <div id="pricing" class="pricing-section section pb-80">
+            <div class="container tab-fix">
+                <div class="section-head heading-light text-center">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h2 class="heading heading-light">Tarifs</h2>
+                            <p>📎 "Téléchargez notre catalogue PDF complet."</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="pricing-box">
+                            <div class="pricing-top gradiant-background">
+                                <h5>Pack Basic</h5>
+                                <h2>5 000 FCFA</h2>
+                            </div>
+                            <div class="pricing-bottom">
+                                <p>Impression simple</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="pricing-box">
+                            <div class="pricing-top gradiant-background">
+                                <h5>Pack Pro</h5>
+                                <h2>15 000 FCFA</h2>
+                            </div>
+                            <div class="pricing-bottom">
+                                <p>Conception + Impression</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="pricing-box">
+                            <div class="pricing-top gradiant-background">
+                                <h5>Pack Premium</h5>
+                                <h2>Sur devis</h2>
+                            </div>
+                            <div class="pricing-bottom">
+                                <p>Conception + Impression + Réseaux sociaux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Contact Section -->
+        <div id="contacts" class="contact-section section gradiant-background pb-90">
+            <div class="container">
+                <div class="section-head heading-light text-center">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h2 class="heading heading-light">Contactez-nous</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="contact-form white-bg text-center">
+                            <h3>Contactez-nous</h3>
+                            <form id="contact-form" class="form-message" action="akemarservices@gmail.com" method="post">
+                                <div class="form-group row">
+                                    <div class="form-field col-sm-6">
+                                        <input name="contact-name" type="text" placeholder="Nom complet *" class="form-control required">
+                                    </div>
+                                    <div class="form-field col-sm-6">
+                                        <input name="contact-email" type="email" placeholder="Email *" class="form-control required email">
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <div class="form-field col-md-6">
+                                        <input name="contact-phone" type="text" placeholder="Téléphone *" class="form-control required">
+                                    </div>
+                                    <div class="form-field col-md-6">
+                                        <input name="contact-subject" type="text" placeholder="Sujet *" class="form-control required">
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <div class="form-field col-md-12">
+                                        <textarea name="contact-message" placeholder="Message *" class="txtarea form-control required"></textarea>
+                                    </div>
+                                </div>
+                                <button type="submit" class="button solid-btn sb-h">Envoyer</button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="contact-info white-bg">
+                            <h6><em class="fa fa-envelope"></em> contact@akemar-service.com</h6>
+                            <h6><em class="fa fa-phone"></em> +229 XX XX XX XX</h6>
+                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d991.2880849393456!2d2.4920027694854108!3d6.374325832415217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103cab007c83a26f%3A0x9c304c14237e48b5!2sAkemar%20service!5e0!3m2!1sfr!2sbj!4v1747057066109!5m2!1sfr!2sbj" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <script src="assets/js/jquery.bundle.js"></script>
+        <script src="assets/js/script.js"></script>
+    </body>
+</html>
